@@ -17,3 +17,13 @@ plt.show()
 #clf()
 #plot(r,j)
 #show()
+.................
+
+...............
+......logical statement....
+myvar=4*(3+2)
+myvariable = True
+if myvar>3:
+    print("less than 3")
+else:
+    print("greater than")
