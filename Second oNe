@@ -1,0 +1,19 @@
+
+...another way to write the same code as number one....
+
+import matplotlib.pyplot as plt
+import numpy as np
+
+#b=c+7
+
+r = np.arange(0,1,0.01)
+j = np.sin(2*pi*r)
+
+plt.figure(1)
+plt.clf()
+plt.plot(r,j)
+plt.show()
+#figure(1)
+#clf()
+#plot(r,j)
+#show()
