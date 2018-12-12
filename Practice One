@@ -1,0 +1,11 @@
+....simple sine graph....
+
+from matplotlib.pyplot import *
+from numpy import *
+r = arange(0,1,0.01)
+j = sin(2*pi*r)
+
+figure(1)
+clf()
+plot(r,j)
+show()
