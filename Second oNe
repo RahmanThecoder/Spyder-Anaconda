@@ -20,10 +20,20 @@ plt.show()
 .................
 
 ...............
-......logical statement....
+......logical statement  3rd one....
+
 myvar=4*(3+2)
 myvariable = True
 if myvar>3:
     print("less than 3")
 else:
     print("greater than")
+    
+    
+    ................4th one...........
+    def main():
+    print("hello mustafizur")
+    
+if __name__=="__main__":
+    main()
+
